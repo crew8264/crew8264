@@ -13,7 +13,7 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail_logo"  />
 
-  <h4>저는 Full Stack 개발자 김용빈 입니다.</h4>
+  <h4> 설계를 먼저하는 Full Stack 개발자 김용빈 입니다.</h4>
   <p align="left">
     <span>성능을 고려한 개발을 지향합니다.<br>
     기술 선택의 이유를 고민하며 지속적으로 개선합니다.
