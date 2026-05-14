@@ -5,11 +5,11 @@
 
 ###
 
-<p align="left">저는 Full Stack 개발자 김용빈 입니다.<br><br>성능을 고려한 개발을 지향합니다.<br>기술 선택의 이유를 고민하며 지속적으로 개선합니다.</p>
+<h3 align="left">저는 Full Stack 개발자 김용빈 입니다.<br><br>성능을 고려한 개발을 지향합니다.<br>기술 선택의 이유를 고민하며 지속적으로 개선합니다.</h3>
 
 ###
 
-<br clear="both">
+<br>
 
 <div align="center">
   <a href="http://www.linkedin.com/in/crew8264/" target="_blank">
@@ -27,15 +27,15 @@
 
 ###
 
-<br clear="both">
+<br>
 
 <h4 align="left">⌨️ Tech Stacks :</h4>
 
 ###
 
-<br clear="both">
+<br>
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
