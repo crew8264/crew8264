@@ -5,13 +5,9 @@
 
 ###
 
-<h4 align="left">저는 Full Stack 개발자 김용빈 입니다.<br><br>성능을 고려한 개발을 지향합니다.<br>기술 선택의 이유를 고민하며 지속적으로 개선합니다.</h4>
-
-###
-
 <br>
 
-<div align="center">
+<div align="left">
   <a href="http://www.linkedin.com/in/crew8264/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
@@ -19,11 +15,15 @@
     <img src="https://img.shields.io/static/v1?message=Notion&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="medium logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  <h4 align="left">저는 Full Stack 개발자 김용빈 입니다.<br><br>성능을 고려한 개발을 지향합니다.<br>기술 선택의 이유를 고민하며 지속적으로 개선합니다.</h4>
 </div>
 
 ###
 
-<br>
+<hr>
+
+###
+
 
 <h4 align="left">⌨️ Tech Stacks :</h4>
 <div align="left">
